@@ -10,6 +10,10 @@ In this workshop, we will first go through the basics of hypothesis and what is 
 
 [Creating a new enviroment](https://docs.python.org/3/library/venv.html) is highly recommended. Recommended version of Python is 3.11. Install all the requirements at [requirements.txt](requirements.txt)
 
+## How to use this workshop
+
+In these workshop there are 3 Jupyter notebooks that will walk you through a discover journey of using Hypothesis to write property-based tests. The notebooks mainly consists of exercises that progress from the basic to more complicated methods. Expect a lot of [documentations](https://hypothesis.readthedocs.io/en/latest/index.html) reading and trying things out yourself. Through try and error, you will discover a lot of knowledge that will make you an efficient user of Hypothesis. You may want to take notes of what you discover while working on the exercises. If you are stuck, use the completed notebook in the [`answers` folder](/answers) to help you, however, the answers in the completed notebook are not the only answers to the exercises.
+
 ## Outline
 
 1. [Introduction and basic use of Hypothesis exercises](01_Hypothesis_basics.ipynb)
